@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Support_id: 
+  vacation: MyString
+  Date: 2015-09-03
+
+two:
+  Support_id: 
+  vacation: MyString
+  Date: 2015-09-03
